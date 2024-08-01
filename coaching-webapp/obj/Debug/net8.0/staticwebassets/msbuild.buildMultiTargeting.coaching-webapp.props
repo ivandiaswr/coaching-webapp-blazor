@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/coaching-webapp.props" />
+</Project>
